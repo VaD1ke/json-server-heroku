@@ -6,6 +6,9 @@
 * [Deploy to **Heroku**](#deploy-to-heroku)
 * [Deploy to **Azure**](#deploy-to-azure)
 
+## Configuration
+
+Create your configuration file (copy `.env.sample` to `.env`) to specify application port (3000 by default).
 
 ## Create your database
 
